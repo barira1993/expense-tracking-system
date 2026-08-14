@@ -3,5 +3,5 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
-.env*.log
+*.log
 backend/server.log
