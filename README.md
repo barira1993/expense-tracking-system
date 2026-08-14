@@ -1,5 +1,26 @@
 # Expense Management System
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+A full stack expense management application built with Python, FastAPI, Streamlit, MySQL, and Pytest.
+
+The application allows users to record and manage expenses, organize expenses by category, and analyze spending patterns through category based and monthly analytics.
+
+## Features
+- Add new expenses
+- Update existing expenses
+- View expenses for a selected date
+- Delete expenses for a selected date
+- Analyze expenses by category
+- Analyze monthly expenses
+- Interactive Streamlit user interface
+- FastAPI backend
+- MySQL database integration
+- Automated testing with Pytest
+- Backend logging
+
+## Application Screenshots
+
+### Add / Update Expenses
+Users can add new expenses and update existing expense records through the Streamlit interface.
+![Add and Update Expenses](images/add_update.png)
 
 ## Project Structure
 - **frontend/**: Contains the Streamlit application code.
