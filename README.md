@@ -22,6 +22,10 @@ The application allows users to record and manage expenses, organize expenses by
 Users can add new expenses and update existing expense records through the Streamlit interface.
 ![Add and Update Expenses](images/add_update.png)
 
+### Expense Analytics By Category
+The category analytics section provides a breakdown of expenses by category, helping users understand where their money is being spent.
+![Analytics by Category](images/analytics_by_category)
+
 ## Project Structure
 - **frontend/**: Contains the Streamlit application code.
 - **backend/**: Contains the FastAPI backend server code.
