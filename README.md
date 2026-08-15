@@ -26,6 +26,10 @@ Users can add new expenses and update existing expense records through the Strea
 The category analytics section provides a breakdown of expenses by category, helping users understand where their money is being spent.
 ![Analytics by Category](images/analytics_by_category.png)
 
+### Monthly Expense Analytics
+The monthly analytics section provides a summary of total expenses for each month.
+![Monthly Expense Analytics](images/analytics_by_months.png)
+
 ## Project Structure
 - **frontend/**: Contains the Streamlit application code.
 - **backend/**: Contains the FastAPI backend server code.
