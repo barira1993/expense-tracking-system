@@ -71,7 +71,7 @@ The monthly analytics section provides a summary of total expenses for each mont
 ![Monthly Expense Analytics](images/analytics_by_months.png)
 
 ## Author
-Barira Abrejo
+**Barira Abrejo**
 
 This project was developed as part of my Data Science learning journey.
 
