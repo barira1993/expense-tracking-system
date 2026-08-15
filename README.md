@@ -18,6 +18,12 @@ The application allows users to record and manage expenses, organize expenses by
 
 ## Tech Stack
 - **Frontend:** Streamlit
+- **Backend:** FastAPI
+- **Database:** MySQL
+- **Data Analysis:** Pandas
+- **Data Visualization:** Streamlit
+- **API Communication:** Requests
+- **Testing:** Pytest
 
 ## Application Screenshots
 
