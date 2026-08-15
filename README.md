@@ -16,6 +16,9 @@ The application allows users to record and manage expenses, organize expenses by
 - Automated testing with Pytest
 - Backend logging
 
+## Tech Stack
+- **Frontend:** Streamlit
+
 ## Application Screenshots
 
 ### Add / Update Expenses
