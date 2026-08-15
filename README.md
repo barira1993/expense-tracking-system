@@ -24,7 +24,7 @@ Users can add new expenses and update existing expense records through the Strea
 
 ### Expense Analytics By Category
 The category analytics section provides a breakdown of expenses by category, helping users understand where their money is being spent.
-![Analytics by Category](images/analytics_by_category)
+![Analytics by Category](images/analytics_by_category.png)
 
 ## Project Structure
 - **frontend/**: Contains the Streamlit application code.
