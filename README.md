@@ -72,6 +72,9 @@ The monthly analytics section provides a summary of total expenses for each mont
 
 ## Author
 Barira Abrejo
+
 This project was developed as part of my Data Science learning journey.
+
 GitHub: https://github.com/barira1993
+
 LinkedIn: https://www.linkedin.com/in/barira-abrejo/
