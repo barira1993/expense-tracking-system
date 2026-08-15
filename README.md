@@ -25,26 +25,13 @@ The application allows users to record and manage expenses, organize expenses by
 - **API Communication:** Requests
 - **Testing:** Pytest
 
-## Application Screenshots
-
-### Add / Update Expenses
-Users can add new expenses and update existing expense records through the Streamlit interface.
-![Add and Update Expenses](images/add_update.png)
-
-### Expense Analytics By Category
-The category analytics section provides a breakdown of expenses by category, helping users understand where their money is being spent.
-![Analytics by Category](images/analytics_by_category.png)
-
-### Monthly Expense Analytics
-The monthly analytics section provides a summary of total expenses for each month.
-![Monthly Expense Analytics](images/analytics_by_months.png)
-
 ## Project Structure
 - **frontend/**: Contains the Streamlit application code.
 - **backend/**: Contains the FastAPI backend server code.
 - **tests/**: Contains the test cases for both frontend and backend.
 - **requirements.txt/**: Lists the required Python packages.
 - **README.md/**: Provides an overview and instructions for the project.
+
 
 ## Setup Instructions
 1. **Clone the repository**: 
@@ -67,3 +54,24 @@ The monthly analytics section provides a summary of total expenses for each mont
     ```commanline
     streamlit run frontend/app.py
     ```
+
+
+## Application Screenshots
+
+### Add / Update Expenses
+Users can add new expenses and update existing expense records through the Streamlit interface.
+![Add and Update Expenses](images/add_update.png)
+
+### Expense Analytics By Category
+The category analytics section provides a breakdown of expenses by category, helping users understand where their money is being spent.
+![Analytics by Category](images/analytics_by_category.png)
+
+### Monthly Expense Analytics
+The monthly analytics section provides a summary of total expenses for each month.
+![Monthly Expense Analytics](images/analytics_by_months.png)
+
+## Author
+Barira Abrejo
+This project was developed as part of my Data Science learning journey.
+GitHub: https://github.com/barira1993
+LinkedIn: https://www.linkedin.com/in/barira-abrejo/
