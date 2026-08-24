@@ -64,11 +64,11 @@ Users can add new expenses and update existing expense records through the Strea
 
 ### Expense Analytics By Category
 The category analytics section provides a breakdown of expenses by category, helping users understand where their money is being spent.
-![Analytics by Category](images/analytics_by_category.png)
+![Analytics by Category](images/analytics_by_categoryy.png)
 
 ### Monthly Expense Analytics
 The monthly analytics section provides a summary of total expenses for each month.
-![Monthly Expense Analytics](images/analytics_by_months.png)
+![Monthly Expense Analytics](images/analytics_by_monthss.png)
 
 ## Author
 **Barira Abrejo**
