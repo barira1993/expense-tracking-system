@@ -5,6 +5,8 @@ A full stack expense management application built with Python, FastAPI, Streamli
 
 The application allows users to record and manage expenses, organize expenses by category, and analyze spending patterns through category based and monthly analytics.
 
+This project was built as part of my Data Science learning journey to strengthen my understanding of backend APIs, database integration, and interactive data visualization.
+
 ## Features
 - Add new expenses
 - Update existing expenses
