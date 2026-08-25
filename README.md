@@ -1,4 +1,4 @@
-# Expense Management System
+# Expense Tracking System
 A full stack expense management application built with Python, FastAPI, Streamlit, MySQL, and Pytest.
 
 The application allows users to record and manage expenses, organize expenses by category, and analyze spending patterns through category based and monthly analytics.
